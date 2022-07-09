@@ -1,20 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=fff&height=300&section=header&text=Let's%20Roll&fontSize=90&theme=dark&animation=fadeIn)
-
-### Hi there 👋
-
-<!--
-**himchan94/himchan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 💁 Who am i
+<img width="70%" alt="matrix" src="https://github.com/himchan94/himchan94/blob/main/metrics.terminal.svg"/>
 
 
+## 🏆 My stats
+![himchan94 github stay](https://github-readme-stats.vercel.app/api?username=himchan94&count_private=true&show_icons=true&theme=radical)
+
+<img src="https://komarev.com/ghpvc/?username=himchan94&label=Profile%20views&color=0e75b6&style=flat" alt="himchan profile view" />
