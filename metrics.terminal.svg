@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="716" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="679" class="">
   
 
   <defs><style>@font-face {
@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 30 Jan 2024, 00:43:57
+Last generated: 30 Jan 2024, 01:43:11
 </div>
 <div class="stdin"><span class="ps1-path">himchan94@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>himchan94</b> registered=3y, uid=9055, gid=0
   contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -57,16 +57,14 @@ Last generated: 30 Jan 2024, 00:43:57
   <b>  129</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">himchan94@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 142 repositories - 236 MB
--r--  <b>   16</b>  stargazers
+-r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
--r--  <b>  100</b>  watchers
+-r--  <b>    0</b>  watchers
 dr-x  <b>    0</b>  packages
-dr-x         LICENSE
--r--         └── MIT
 </div>
 
 
-<footer>Connection reset by 119.154.137.7</footer></pre>
+<footer>Connection reset by 169.116.130.4</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
